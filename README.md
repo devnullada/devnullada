@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things binary
 - 🌱 I’m currently learning A Haskell
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: pth@live.no
+- 📫 How to reach me: Post an issue in one of my repos
 
 <!---
 devnullada/devnullada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
