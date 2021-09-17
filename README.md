@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devnullada
-- 👀 I’m interested in cryptotech, A Haskell, Javascript, SQL and boolean truths of the metaverse
+- 👀 I’m interested in all things binary
 - 🌱 I’m currently learning A Haskell
-- 💞️ I’m looking to collaborate on open source projects and crypto-tech
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: pth@live.no
 
 <!---
